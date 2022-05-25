@@ -1,10 +1,7 @@
-import React from "react";
-import styled from "styled-components";
-
-const NavContainer = styled.div``;
+import * as React from "react";
 
 function NavBar() {
-  return <div className="nav--container">NavBar</div>;
+  return <></>;
 }
 
 export default NavBar;
